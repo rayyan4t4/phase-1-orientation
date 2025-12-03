@@ -1,1 +1,0 @@
-print("Phase 1 Orientation Complete!")
